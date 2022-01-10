@@ -1,4 +1,4 @@
-# Instructions to run :
+# Instructions to run(linux) :
 1. Clone folder
 2. Make sure npm is installed.
 3. Install all dependencies
